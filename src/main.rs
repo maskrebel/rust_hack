@@ -1,4 +1,4 @@
-mod fizz_buzz;
+mod fizzBuzz;
 
 fn main() {
     println!("Hello, world!");
